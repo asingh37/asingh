@@ -136,7 +136,8 @@
             <div class="row">
                 <div class="col-lg-12 ">
                    <ul>
-<li><strong>A Comprehensive Study of Computer Vision for Physical Human-Robot Interaction (JournalPaper: In Progress) </li>                               
+<li><strong>A Comprehensive Study of Computer Vision for Physical Human-Robot Interaction (Journal
+Paper: In Progress) </li>                               
 <li><strong> A Study on Conversational Head Gesture (In Progress)</li>
 <li><strong> A Survey of AI Text-to-Image and AI Text-to-Video Generators (Accepted, AIRC 2023) </li> 
 <li><strong> Transdisciplinary AI Education: The Confluence of Curricular and Community Needs in the Instruction of Artificial Intelligence (Accepted, AIET 2023)</li>
@@ -239,7 +240,10 @@
             <div class="row">
                 <div class="col-lg-12 ">
                    <ul>
-<li><strong> Hopper for Grace Hopper Celebration of Women in Computing at AnitaB.org, Orlando,Florida, September 2022.</li><li><strong>  Honored with Volunteer Award at International Conference on Human Computer Interaction,Kent State University, December 2021.</li>                                
+<li><strong> Hopper for Grace Hopper Celebration of Women in Computing at AnitaB.org, Orlando,
+Florida, September 2022.</li>
+<li><strong>  Honored with Volunteer Award at International Conference on Human Computer Interaction,
+Kent State University, December 2021.</li>                                
 <li>
 				<strong> Graduate Assistantship, Kent State University, 2017 - Present  </strong>
                                 </li>
@@ -247,7 +251,8 @@
 				<strong> Best Paper Final Award, CAINE 2018  </strong>
                                 </li>
 			        <li>
-                                    <strong> Honored with Gold Medal Award (summa cum laude) Bachelor of Engineering in ComputerScience, India </strong>
+                                    <strong> Honored with Gold Medal Award (summa cum laude) Bachelor of Engineering in Computer
+Science, India </strong>
                                 </li>
 
                     </ul>
@@ -353,7 +358,7 @@
                 <div class="row">
                     <div class="footer-col col-md-6">
                         <h3>Location</h3>
-                        <p>Kent State University<br>Kent,Ohio,44240</p>
+                        <p>Cleveland State University<br>Cleveland,Ohio</p>
                     </div>
                     <div class="footer-col col-md-6">
                         <h3>Around the Web</h3>
